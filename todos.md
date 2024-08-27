@@ -1,4 +1,0 @@
-- show text with color
-- graphrag for the content
-- ctrl + L 
-- ctrl + K ~ git diff mode
